@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+}
+
+* {
+  color: #fff;
+}
+
+#slider {
+  margin-bottom: 30px;
+}
+
+#slider-btns {
+  display: flex;
+  max-width: 550px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+#slider-btns button {
+  display: block;
+  cursor: pointer;
+  width: 150px;
+  font-size: 14px;
+  padding: 4px 5px;
+  border: 1px solid #fff;
+  background: none;
+  margin-bottom: 7px;
+  text-decoration: underline;
+
+}
