@@ -24,7 +24,7 @@ const Plane = ({ size }) => {
 		return () => {
 			clearInterval(interval);
 		};
-	}, [direction]);
+	}, [direction, size]);
 
 	return (
 		<svg
