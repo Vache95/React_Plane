@@ -1,5 +1,3 @@
-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
-
 # React Plane 
 
 In the project directory, you can run:
@@ -12,5 +10,5 @@ npm start
 ```
 ## Deploy Link
 
-`Plane` : <>
+`Plane` : <https://stellar-starlight-f8d1bd.netlify.app/>
 
